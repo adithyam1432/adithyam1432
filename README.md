@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Adithya Ashok Menashinakai 👋
 
-<!--
-**adithyam1432/adithyam1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Full Stack Enthusiast | Frontend Developer | UI/UX Designer
 
-Here are some ideas to get you started:
+I am a passionate developer currently focusing on **Web Development** and **Frontend Technologies**. I love building clean, user-friendly interfaces and robust management systems. Currently pursuing my **MCA**, I enjoy turning complex problems into simple, beautiful digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | HTML5, CSS3, JavaScript, TypeScript, Python |
+| **Frameworks** | React.js, React Native |
+| **Backend/DB** | MySQL, SQLite |
+| **Tools** | Git, GitHub, Android Studio, Microsoft Azure |
+
+---
+
+### 🚀 Key Projects
+
+* **📍 RouteR** – A comprehensive Travel & Tourism Planner application.
+* **📦 Inventory System** – An offline mobile solution for school inventory management.
+* **📊 Retail Analytics** – Full Stack Management & Analytics System (React + Python + MySQL).
+* **✨ Portfolio** – Personal portfolio sites showcasing my creative work.
+
+---
+
+### 📈 GitHub Stats
+
+![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyam1432&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyam1432&layout=compact&theme=radical)
+
+---
+
+### 📫 How to reach me:
+
+* **LinkedIn:** [Your Profile Link Here]
+* **Portfolio:** [Your Website Link Here]
+* **Email:** [Your Email Address Here]
+
+---
+
+### ⚡ Fun Fact
+I'm a big fan of **AI-powered digital art** and often experiment with cinematic and vintage art styles!
