@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Adithya%20Ashok&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Adithya%20Menashinakai&fontSize=80&animation=fadeIn" />
 
   <h1>🚀 Frontend Developer & UI/UX Designer</h1>
   
