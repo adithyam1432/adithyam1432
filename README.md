@@ -16,8 +16,7 @@
 
 ### ⚡ Quick Overview
 - 🎓 **Current Pursuit:** Master of Computer Applications (MCA)
-- 🛠️ **Current Projects:** Building **RouteR** (Travel Planner) & Retail Management Systems.
-- ☁️ **Certified:** Microsoft Azure Fundamentals.
+- 🛠️ **Current Projects:** Building something usefull.
 - 🎨 **Passion:** Combining clean code with AI-powered digital art.
 
 ---
@@ -36,25 +35,12 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
----
-
-### 📊 Github Productivity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adithyam1432&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyam1432&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📁 Featured Repositories
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **📍 RouteR** | AI-driven Travel & Tourism Planner. | React, UI/UX |
 | **📦 School Inventory** | Offline-first management system. | Python, SQLite |
-| **🛒 Retail Analytics** | Full-stack Retail Management system. | React, Python, MySQL |
-
 ---
 
 ### 🤝 Connect with me
